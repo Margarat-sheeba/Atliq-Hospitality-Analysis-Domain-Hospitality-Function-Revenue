@@ -31,6 +31,7 @@ Create relevant insights that are not provided in the metric list.
 <img width="1219" height="2102" alt="image" src="https://github.com/user-attachments/assets/37271fba-583e-46c9-8c31-bdcb49a3ee69" />
 <img width="1293" height="2006" alt="image" src="https://github.com/user-attachments/assets/310e09dd-e2ae-4c1c-9e04-08365c2a640e" />
 <img width="1171" height="1898" alt="image" src="https://github.com/user-attachments/assets/58c63696-9d62-40f0-9189-dfcdb4b8b2dd" />
+
 # Learnings
 
 Gained a solid understanding of the Hospitality Domain, including key metrics such as RevPAR, DBRN, DSRN, DURN, ADR, Realization and Occupancy Percentage.
