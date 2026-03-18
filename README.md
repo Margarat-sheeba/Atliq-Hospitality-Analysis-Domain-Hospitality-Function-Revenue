@@ -24,16 +24,13 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list.
 
 # Data Model
-
-![alt text](image.png)
+<img width="1215" height="705" alt="image" src="https://github.com/user-attachments/assets/13f0d4eb-a4bc-4c80-8e93-003a7ec7cf74" />
 
 # Dashboard
-
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-
+<img width="1244" height="1962" alt="image" src="https://github.com/user-attachments/assets/314b3ae2-b57c-4037-b4e4-fa027aa1ba8e" />
+<img width="1219" height="2102" alt="image" src="https://github.com/user-attachments/assets/37271fba-583e-46c9-8c31-bdcb49a3ee69" />
+<img width="1293" height="2006" alt="image" src="https://github.com/user-attachments/assets/310e09dd-e2ae-4c1c-9e04-08365c2a640e" />
+<img width="1171" height="1898" alt="image" src="https://github.com/user-attachments/assets/58c63696-9d62-40f0-9189-dfcdb4b8b2dd" />
 # Learnings
 
 Gained a solid understanding of the Hospitality Domain, including key metrics such as RevPAR, DBRN, DSRN, DURN, ADR, Realization and Occupancy Percentage.
