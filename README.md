@@ -1,4 +1,4 @@
-# Atliq-Hospitality-Analysis-Domain-Hospitality-Function-Revenue
+# Atliq Hospitality Analysis Domain Hospitality Function Revenue
 AtliQ Grands is a chain of five-star hotels operating across India, with over 20 years of experience in the hospitality industry. Recently, the company has been losing market share and revenue in the luxury and business hotel segment due to increased competition and ineffective management decisions. To address this, the managing director decided to adopt Business and Data Intelligence strategies to regain their competitive position. However, the company lacks an in-house data analytics team to generate these insights.
 
 As a result, the revenue management team chose to hire a third-party service provider to analyze their historical data and deliver actionable insights.
