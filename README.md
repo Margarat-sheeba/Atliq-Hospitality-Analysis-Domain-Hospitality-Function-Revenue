@@ -85,7 +85,7 @@ This project aims to solve these problems using data analytics.
 
 ## 🎥 Project Demo
 
-👉 [Video Presentation](PASTE_YOUR_VIDEO_LINK_HERE)
+👉 [Video Presentation](https://www.linkedin.com/posts/margarat-sheeba-485885b3_dataanalytics-powerbi-python-activity-7439917051588091904-kN1Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAABgn_GUBs0wkNzEjXmHx0SMwswU973w-z3E)
 
 ---
 
