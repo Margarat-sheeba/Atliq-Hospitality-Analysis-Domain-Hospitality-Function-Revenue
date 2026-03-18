@@ -91,7 +91,7 @@ This project aims to solve these problems using data analytics.
 
 ## 📊 Power BI Dashboard
 
-👉 [View Dashboard](PASTE_YOUR_POWERBI_LINK_HERE)
+👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmQ1NzM4ZjctMDI3Zi00OTM1LWI4NDItMDcxMGJlYjhiZTI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 # Data Model
